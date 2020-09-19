@@ -1,5 +1,8 @@
 esta es una historia de Felix, ingeniero en robotánica, es una rama
 de la ingeniería mecánica que busca crear androides, combinando robots
 y todo tipo de árboles, plantas, arbustos, para crear una fuerza de trabajo 
-inmortal que necesite pocos cuidados y que en cambio de muchos beneficios
+inmortal que necesite pocos cuidados y que en cambio de muchos beneficios,
+el primer experimento involucra servomotores y un arbol de cedro, buscan
+dar movilidad y las fibras del cedro pretender dar un resistencia a flexión
+y tracción que en metal sería sumamente cosstosa de producir 
    
