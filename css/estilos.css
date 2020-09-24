@@ -10,7 +10,7 @@ body
 }
 #cabecera
 {
-    background: purple;
+    background:blue;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -43,6 +43,12 @@ body
 #post
 {
     padding: 1em;
-    background: white;
+    
 }
-
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 1em; 
+}
